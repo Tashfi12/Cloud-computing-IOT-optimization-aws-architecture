@@ -49,22 +49,4 @@ The architecture is designed to support distributed research operations in Keral
 
 *The technologies listed describe the proposed solution and technical scope; they do not imply that all services were deployed in a live AWS environment.*
 
-## Learning Outcomes
 
-- Analyze cloud computing infrastructure, service models, security, and management challenges.
-- Evaluate cloud applications, services, orchestration, and modern infrastructure.
-- Explain how digital transformation drives cloud adoption.
-- Apply cloud optimization principles to rural IoT research scenarios.
-
-## Repository Structure
-
-- `Part-1-Research-Paper/` – Literature review on cloud-based IoT optimization in low-connectivity environments.
-- `Part-2-AgriBio-AWS-Architecture/` – AgriBio Labs case study, AWS architecture design, and supporting diagrams.
-- `References/` – Research papers, citations, and supporting materials, if included.
-
-## Academic Context
-
-**Course:** Cloud Computing  
-**Institution:** Asia Pacific University of Technology and Innovation (APU)  
-**Year:** 2026  
-**Project Type:** Individual Assignment
